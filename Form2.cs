@@ -11,6 +11,7 @@ using System.IO;
 
 namespace PasswordManager
 {
+    
     public partial class Form2 : Form
     {
         public Form2()
